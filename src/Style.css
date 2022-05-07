@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+    color: red;
+  }
+.Image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
